@@ -1,0 +1,15 @@
+List all accounts with customer names
+Show transactions above 5000 with customer names
+Get all loans with branch and customer names
+Show beneficiaries linked to each account
+List loan payments with customer names
+Show employees in each branch
+Get audit logs with employee names
+Show ATMs with branch info
+Find top 5 customers with highest balance
+Show total balance per customer
+List loans and payments for active loans
+Show employees earning more than 50000
+Find customers with more than 3 accounts
+List branches with number of employees
+Show customers who made transactions in last 30 days
